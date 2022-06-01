@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background-color: gray;
+}
+.bloquetitulo{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center; 
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+.parrafotitulo1{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+
+}
+
+.iconospsicologia {
+    padding-top: 55px;
+
+}
+
+.bloquetitulo2 {
+    width: 100%;
+    display: inline-block;
+    font-size: 24px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 35px;
+    color: blue;
+    font-family: sans-serif;
+    background-color: white;
+    text-align: center;
+}
+
+.parrafotitulo2 {
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    color:blue;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 45;
+    text-align: center;
+    font-size: 24px;
+    float: left;
+
+
+
+}
+
+.formulario{
+background: gray;
+margin: auto;
+width: 400%;
+font-family: sans-serif;
+border: 2px solid black;
+
+}
